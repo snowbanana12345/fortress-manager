@@ -1,0 +1,8 @@
+Version --- 0.1
+1. implement building, resource producing buildings, building costs
+2. implement commands, BUILD, DEMOLISH
+3. implement player resource collector
+
+Version 0.1.1
+1. implement display UI without functionality
+2. implement text boxes
